@@ -1,0 +1,25 @@
+{
+  "name": "reseeded",
+  "version": "0.0.1",
+  "description": "Pseudorandom number generation.",
+  "homepage": "https://github.com/Stassi/reseeded#readme",
+  "license": "MIT",
+  "author": "Andreas Stassivik <andreas@stassi.net> (https://github.com/Stassi)",
+  "type": "module",
+  "repository": "github:Stassi/reseeded",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=18.1.0",
+    "npm": ">=8.10.0"
+  },
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "sideEffects": false,
+  "private": true
+}
